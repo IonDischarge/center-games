@@ -1,0 +1,40 @@
+html {
+    background-color: #090939;
+  }
+  
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #532886;
+    color: white;
+    font-family: "Oswald", sans-serif;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+  
+  <style>
+  a:link {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: blue;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  </style>
+  .flex { display : flex }
