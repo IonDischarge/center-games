@@ -14,13 +14,13 @@ html {
   
   <style>
   a:link {
-    color: pink;
+    color: rgb(255, 255, 255);
     background-color: transparent;
     text-decoration: none;
   }
   
   a:visited {
-    color: pink;
+    color: rgb(255, 255, 255);
     background-color: transparent;
     text-decoration: none;
   }
@@ -32,7 +32,7 @@ html {
   }
   
   a:active {
-    color: blue;
+    color: rgb(255, 255, 255);
     background-color: transparent;
     text-decoration: underline;
   }
