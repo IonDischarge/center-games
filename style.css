@@ -12,29 +12,5 @@ html {
     padding: 0 20px 20px 20px;
     border: 5px solid black;
   }
-
-  a:link {
-    color: rgb(255, 255, 255);
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:visited {
-    color: rgb(255, 255, 255);
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    color: rgb(121, 68, 255);
-    background-color: rgb(34, 33, 33);
-    text-decoration: none;
-  }
-  
-  a:active {
-    color: rgb(255, 255, 255);
-    background-color: transparent;
-    text-decoration: none;
-  }
   
   .flex { display : flex }
